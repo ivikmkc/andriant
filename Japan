@@ -1,0 +1,14 @@
+#EXTINF:-1 tvg-logo="http://image.azuza.web.id/images/agus-1545452020.jpg" group-title="JAPAN",NHK WORLD HD
+https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/263941/live_high2_s.m3u8
+#EXTINF:-1 tvg-logo="http://image.azuza.web.id/images/agus-1545452020.jpg" group-title="JAPAN",NHK WORLD HD
+https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/263941/live_high2_s.m3u8
+#EXTINF:-1 tvg-logo="http://image.azuza.web.id/images/agus-1545452020.jpg" group-title="JAPAN",NHK WORLD HD
+https://nhkwtvglobal-i.akamaihd.net/hls/live/263941/nhkwtvglobal/index_1180.m3u8
+#EXTINF:-1 tvg-logo="http://image.azuza.web.id/images/agus-1545452020.jpg" group-title="JAPAN",NHK
+http://nhkwtvglobal-i.akamaihd.net/hls/live/263941/nhkwtvglobal/index_1180.m3u8
+#EXTINF:-1 tvg-logo="http://image.azuza.web.id/images/agus-1545452020.jpg" group-title="JAPAN",V ASAHI
+http://192.240.127.34:1935/live/cs19.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://image.azuza.web.id/images/agus-1545452020.jpg" group-title="JAPAN",TV TOKYO
+http://192.240.127.34:1935/live/cs18.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://image.azuza.web.id/images/agus-1545452020.jpg" group-title="JAPAN",History Channel [404p]
+http://192.240.127.34:1935/live/cs14.stream/playlist.m3u8
