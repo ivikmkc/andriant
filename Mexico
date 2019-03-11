@@ -62,8 +62,6 @@ http://live.gvstream.net:554/e-tv-video/play.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Epj6mqE.png" group-title="MEXICO", Ocho TV (Guadalajara) | FHD
 http://bcliveuniv-lh.akamaihd.net/i/Live_1@170324/master.m3u8
 
-#EXTINF: -1 tvg-id = "" tvg-name = "" tvg-logo = "https://i.ytimg.com/vi/n1AJtRokP_w/maxresdefault.jpg" group-title = "24/7", www.freemium-iptv.org le ofrece esta lista gratis [Apoyanos con unos clics en la publicidad]
-http://wse.planeta-online.tv:1935/live/channel_3/chunklist.m3u8
 
 #EXTINF:-1,MULTIMEDIOS MONTERREY
 http://mdstrm.com/live-stream-playlist_400/57b4dbf5dbbfc8f16bb63ce1.m3u8?
