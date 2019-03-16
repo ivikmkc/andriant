@@ -1,0 +1,69 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://www.thelogodb.com/images/media/logo/uqsxut1436892701.png" group-title="HD Channel",[956] FOX Crime HD
+rtmp://@239.1.2.225:9318
+
+#EXTINF:-1 tvg-logo="https://vignette1.wikia.nocookie.net/logopedia/images/9/94/Fxhd.png" group-title="HD Channel",[957] FX HD
+rtmp://@239.1.2.227:9324
+
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/392_300.png" group-title="HD Channel",[958] KBS World HD
+rtmp://@239.1.1.13:8052
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/WakuWaku_Japan_logo.svg/800px-WakuWaku_Japan_logo.svg.png" group-title="HD Channel",[959] Wakuwaku Japan HD
+rtmp://@239.1.1.244:9434
+
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/721_300.png" group-title="HD Channel",[960] AXN HD
+rtmp://@239.1.1.245:9436
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/Diva_Universal.svg/800px-Diva_Universal.svg.png" group-title="HD Channel",[961] DIVA HD
+rtmp://@239.1.1.24:8118
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/57/Lifetime_us_hd.png/revision/latest/scale-to-width-down/800" group-title="HD Channel",[962] Lifetime HD
+rtmp://@239.1.1.25:8124
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d6/E%21_Entertainment_HD.png/revision/latest/scale-to-width-down/600" group-title="HD Channel",[963] E!Entertainment HD
+rtmp://@239.1.1.26:8130
+
+#EXTINF:-1 tvg-logo="http://g.udn.com.tw/upfiles/B_CT/ctpeace5656888xyz777/PSN_PHOTO/742/f_10366742_1.png" group-title="HD Channel",[968] Star Chinese Movies HD
+rtmp://@239.1.2.231:9336
+
+#EXTINF:-1 tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/f/f8/Be_in_sports_hd.png" group-title="HD Channel",[970] BEIN Sports HD
+rtmp://@239.1.1.248:9494
+
+#EXTINF:-1 tvg-logo="http://showsport-tv.com/images/channels/be2.png" group-title="HD Channel",[971] BEIN Sports 2 HD
+rtmp://@239.1.1.249:9496
+
+#EXTINF:-1 tvg-logo="http://showsport-tv.com/images/channels/be3.png" group-title="HD Channel",[972] BEIN Sports 3 HD
+rtmp://@239.1.1.205:9204
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/25/Fox_Sports_HD.png" group-title="HD Channel",[973] FOX Sport HD
+rtmp://@239.1.2.201:9174
+
+#EXTINF:-1 tvg-logo="https://vignette3.wikia.nocookie.net/logopedia/images/5/5c/Fox_Sports_2_HD_logo.png/revision/latest/scale-to-width-down/600" group-title="HD Channel",[974] FOX Sport 2 HD
+rtmp://@239.1.2.203:9180
+
+#EXTINF:-1 tvg-logo="https://vignette3.wikia.nocookie.net/logopedia/images/c/c1/Fox_Sports_3_HD-0.png/revision/latest/scale-to-width-down/600" group-title="HD Channel",[975] FOX Sport 3 HD
+rtmp://@239.1.2.205:9186
+
+#EXTINF:-1 tvg-logo="http://www.lbn.lk/images/channel-logo/1464927889njn.png" group-title="HD Channel",[976] Fight Sport HD
+rtmp://@239.1.2.209:9196
+
+#EXTINF:-1 tvg-logo="http://www.genserv-ph.com/assets/img/sattv/nhkworld.png" group-title="HD Channel",[980] NHK World HD
+rtmp://@239.1.2.239:9354
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/800px-Deutsche_Welle_symbol_2012.svg.png" group-title="HD Channel",[981] DW HD
+rtmp://@239.1.2.243:9360
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/CNN_International_HD.png" group-title="HD Channel",[982] CNN HD
+rtmp://@239.1.1.246:9438
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/694086000067235840/j1VRXvlT_400x400.jpg" group-title="HD Channel",[973] FLiK HD
+rtmp://@239.1.1.239:9276
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/HBO_HD_logo.png" group-title="HD Channel",[991] HBO HD
+rtmp://@239.1.1.203:9192
+ 
+#EXTINF:-1 tvg-logo="https://www.satiitv.com/wp-content/uploads/2016/09/hbohd.jpg" group-title="HD Channel",[992] HBO Hits HD
+rtmp://@239.1.1.215:9264
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/HBO_Signature_Asia.svg/800px-HBO_Signature_Asia.svg.png" group-title="HD Channel",[993] HBO Signature HD
+rtmp://@239.1.2.249:9378
