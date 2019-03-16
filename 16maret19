@@ -1,4 +1,35 @@
 #EXTM3U
+#EXTINF:0 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c9/Logo_MNC.png" group-title="Sport",MNC Sport
+rtmp://118.97.50.102:1935/live/stream1.sdp
+#EXTINF:0 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c9/Logo_MNC.png" group-title="Sport",MNC Sport
+rtmp://118.97.96.17:1935/live/antv
+#EXTINF:0 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c9/Logo_MNC.png" group-title="Sport",MNC Sport
+rtmp://118.97.96.17:1935/live/tvone
+#EXTINF:0 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c9/Logo_MNC.png" group-title="Sport",MNC Sport
+rtmp://202.137.11.52:1935/jakarta/offair.sdp
+#EXTINF:0 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c9/Logo_MNC.png" group-title="Sport",MNC Sport
+rtmp://202.158.49.58:1935/mobile/video_source
+#EXTINF:0 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c9/Logo_MNC.png" group-title="Sport",MNC Sport
+rtmp://202.58.124.140:1935/oc/octv
+#EXTINF:0 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c9/Logo_MNC.png" group-title="Sport",MNC Sport
+rtmp://202.58.124.147:1935/indolive/indolive_256
+#EXTINF:0 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c9/Logo_MNC.png" group-title="Sport",MNC Sport
+rtmp://202.58.124.147:1935/sclive/sclive_256
+#EXTINF:0 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c9/Logo_MNC.png" group-title="Sport",MNC Sport
+rtmp://live.mytrans.com/live/trans7@5.sdp
+#EXTINF:0 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c9/Logo_MNC.png" group-title="Sport",MNC Sport
+rtmp://live.mytrans.com/live/transtv@5.sdp
+rtmp://edge.okeinfo.net/live/mnc_myu_new10.stream
+rtmp://edge.okeinfo.net/live/mnc_myu_new12.stream
+rtmp://edge.okeinfo.net/live/mnc_myu_new13.stream
+rtmp://edge.okeinfo.net/live/mnc_myu_new3.stream
+rtmp://edge.okeinfo.net/live/mnc_myu_new5.stream
+rtmp://edge.okeinfo.net/live/mnc_myu_new6.stream
+rtmp://edge.okeinfo.net/live/mnc_myu_new8.stream
+rtmp://edge.okeinfo.net/live/mnc_myu_new9.stream
+rtmp://edge.okeinfo.net/live/qqmnc_myu_new1.stream
+rtmp://edge.okeinfo.net/live/qqmnc_myu_new2.stream
+
 #EXTINF:-1 tvg-logo="https://www.thelogodb.com/images/media/logo/uqsxut1436892701.png" group-title="HD Channel",[956] FOX Crime HD
 rtmp://@239.1.2.225:9318
 
