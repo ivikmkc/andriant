@@ -1,0 +1,27 @@
+#EXTM3U 
+#EXTINF:-1  tvg-logo="http://image.azuza.web.id/images/toples-1552792089.png" group-title="CCTV",CCTV1
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225922/index.m3u8
+#EXTINF:-1  tvg-logo="http://image.azuza.web.id/images/toples-1552792089.png" group-title="CCTV",CCTV2
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225800/index.m3u8
+#EXTINF:-1  tvg-logo="http://image.azuza.web.id/images/toples-1552792089.png" group-title="CCTV",CCTV3
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225801/index.m3u8
+#EXTINF:-1  tvg-logo="http://image.azuza.web.id/images/toples-1552792089.png" group-title="CCTV",CCTV4
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225802/index.m3u8
+#EXTINF:-1  tvg-logo="http://image.azuza.web.id/images/toples-1552792089.png" group-title="CCTV",CCTV5
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225803/index.m3u8
+#EXTINF:-1  tvg-logo="http://image.azuza.web.id/images/toples-1552792089.png" group-title="CCTV",CCTV5+
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225821/index.m3u8
+#EXTINF:-1  tvg-logo="http://image.azuza.web.id/images/toples-1552792089.png" group-title="CCTV",CCTV7
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225805/index.m3u8
+#EXTINF:-1  tvg-logo="http://image.azuza.web.id/images/toples-1552792089.png" group-title="CCTV",CCTV8
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225806/index.m3u8
+#EXTINF:-1  tvg-logo="http://image.azuza.web.id/images/toples-1552792089.png" group-title="CCTV",CCTV9
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225820/index.m3u8
+#EXTINF:-1  tvg-logo="http://image.azuza.web.id/images/toples-1552792089.png" group-title="CCTV",CCTV10
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225814/index.m3u8
+#EXTINF:-1  tvg-logo="http://image.azuza.web.id/images/toples-1552792089.png" group-title="CCTV",CCTV11
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225815/index.m3u8
+#EXTINF:-1  tvg-logo="http://image.azuza.web.id/images/toples-1552792089.png" group-title="CCTV",CCTV12
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225816/index.m3u8
+#EXTINF:-1  tvg-logo="http://image.azuza.web.id/images/toples-1552792089.png" group-title="CCTV",CCTV13
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225817/index.m3u8"
